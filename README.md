@@ -1,0 +1,3 @@
+The purpose of this program is to aid in ensuring data security and integrity through performing error-detection on text files. It achieves this by utilizing the error detecting algorithms of Parity Check, Checksum, and 2D Parity Check.
+
+This is one of my core projects for practicing C that helped me with learning more about memory management and utilizing pointers. I plan on continuing to update and modify this project to make it more user friendly and intuitive.
